@@ -1,0 +1,80 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Final_VisBasic_Project_12_days_of_XMAS
+</name>
+</assembly>
+<members>
+<member name="P:Final_VisBasic_Project_12_days_of_XMAS.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Final_VisBasic_Project_12_days_of_XMAS.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Final_VisBasic_Project_12_days_of_XMAS.My.Resources.Resources._10_lords_a_leaping">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Final_VisBasic_Project_12_days_of_XMAS.My.Resources.Resources._12_drummers_drumming">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Final_VisBasic_Project_12_days_of_XMAS.My.Resources.Resources._3_French_hens">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Final_VisBasic_Project_12_days_of_XMAS.My.Resources.Resources._3_French_hens1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Final_VisBasic_Project_12_days_of_XMAS.My.Resources.Resources._4_calling_birds">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Final_VisBasic_Project_12_days_of_XMAS.My.Resources.Resources._6Geese">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Final_VisBasic_Project_12_days_of_XMAS.My.Resources.Resources._7_swans">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Final_VisBasic_Project_12_days_of_XMAS.My.Resources.Resources._814dbf8f6cc2fe44f39a9cebc24d50c3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Final_VisBasic_Project_12_days_of_XMAS.My.Resources.Resources.cb1b7da089348c9b7e633f09387ef0e6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Final_VisBasic_Project_12_days_of_XMAS.My.Resources.Resources.christmas_debt">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Final_VisBasic_Project_12_days_of_XMAS.My.Resources.Resources.partridge_in_a_pear_tree_s1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Final_VisBasic_Project_12_days_of_XMAS.My.Resources.Resources.th">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Final_VisBasic_Project_12_days_of_XMAS.My.Resources.Resources.turtledoves_sample">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Final_VisBasic_Project_12_days_of_XMAS.My.Resources.Resources.twelve_11_pipers_jpeg_copyright">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Final_VisBasic_Project_12_days_of_XMAS.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
